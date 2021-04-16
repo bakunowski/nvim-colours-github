@@ -7,3 +7,8 @@ Currently only supports [nvim-treesitter](https://github.com/nvim-treesitter/nvi
 I like consistency and really enjoy the new GitHub Dimmed colourscheme. When
 jumping between reviewing PRs and my editor it feels good to look at a similar
 environment.
+
+## Screenshots
+
+![](screenshots/light.png)
+![](screenshots/dimmed.png)
