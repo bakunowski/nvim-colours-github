@@ -146,7 +146,7 @@ call s:HL('Tag', '', '', 'bold')
 
 " }}}
 " CtrlP {{{
-call s:HL('CtrlPMatch', 'foreground', 'redd')
+call s:HL('CtrlPMatch', 'foreground', 'fire')
 call s:HL('CtrlPNoEntries', 'foreground', '')
 call s:HL('CtrlPPrtBase', 'foreground', '')
 call s:HL('CtrlPPrtCursor', 'foreground', '')
@@ -156,6 +156,7 @@ call s:HL('CtrlPLinePre', 'foreground', '')
 " Gutter {{{
 
 call s:HL('LineNr', 'cloud', 'foreground')
+call s:HL('CursorLineNr', 'foreground', '')
 call s:HL('SignColumn', '', 'foreground')
 call s:HL('FoldColumn', 'cloud', 'foreground')
 
