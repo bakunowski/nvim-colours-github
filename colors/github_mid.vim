@@ -243,6 +243,7 @@ call s:HL('DiffChange', '',     'diff_add_dark')
 
 call s:HL('TSFunction' , 'magenta')
 call s:HL('TSMethod' , 'magenta')
+call s:HL('TSField' , 'foreground')
 call s:HL('TSFuncBuiltin' , 'magenta')
 call s:HL('TSPunctBracket' , 'foreground')
 call s:HL('TSConstBuiltin' , 'sky_blue')
@@ -251,4 +252,3 @@ call s:HL('TSParameter' , 'foreground')
 call s:HL('TSProperty' , 'sky_blue')
 call s:HL('TSType' , 'foreground')
 call s:HL('TSTypeBuiltin' , 'foreground')
-
